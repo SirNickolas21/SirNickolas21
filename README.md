@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirNickolas21
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in learning full-stack web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project that interests me
